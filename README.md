@@ -76,6 +76,14 @@ _Autor_
 
 * **Wilson Alejandro Gonzalez Gaitan** - *Trabajo Inicial* - [Alejito29](https://github.com/Alejito29)
 
+## Video ✒️
+
+Muestra un pequeño video del funcionamiento
+
+
+https://user-images.githubusercontent.com/78820446/116794990-26a40880-aa97-11eb-834d-3f34878e0903.mp4
+
+
 
 ## Licencia 📄
 
